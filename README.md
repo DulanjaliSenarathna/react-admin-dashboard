@@ -70,9 +70,9 @@ Happy Coding! 🚀
 
 # Website's screenshots
 
-![1](https://user-images.githubusercontent.com/59603716/234086939-577fe59c-86d3-4200-8b2f-e96d3597379e.PNG)
-
 ![2](https://user-images.githubusercontent.com/59603716/234086950-f378ce01-f2d8-4056-be57-b8968a148e46.PNG)
+
+![1](https://user-images.githubusercontent.com/59603716/234086939-577fe59c-86d3-4200-8b2f-e96d3597379e.PNG)
 
 ![3](https://user-images.githubusercontent.com/59603716/234086960-09653f12-3f85-4655-9d7e-34eac5a2e690.PNG)
 
