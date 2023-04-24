@@ -92,5 +92,7 @@ Happy Coding! 🚀
 
 ![11](https://user-images.githubusercontent.com/59603716/234087107-926e391b-3d98-478a-936d-f6beb6de47c1.PNG)
 
+## Dark mode
+
 ![12](https://user-images.githubusercontent.com/59603716/234087128-14e3fe56-9f74-49d3-8f7c-0657c6aeb1bb.PNG)
 
