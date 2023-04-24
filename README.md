@@ -70,18 +70,27 @@ Happy Coding! 🚀
 
 # Website's screenshots
 
-![Emomify1](https://user-images.githubusercontent.com/59603716/229886892-f0c526a1-f6ce-40b6-b19c-6a3b81d412c3.PNG)
+![1](https://user-images.githubusercontent.com/59603716/234086939-577fe59c-86d3-4200-8b2f-e96d3597379e.PNG)
 
-![Ecomify2](https://user-images.githubusercontent.com/59603716/229886997-ca2d561d-6ea2-4d1a-95b0-9f7cf76024ae.PNG)
+![2](https://user-images.githubusercontent.com/59603716/234086950-f378ce01-f2d8-4056-be57-b8968a148e46.PNG)
 
-![Ecomify3](https://user-images.githubusercontent.com/59603716/229887340-20ecf144-a888-4226-9f8e-70626632dd36.PNG)
+![3](https://user-images.githubusercontent.com/59603716/234086960-09653f12-3f85-4655-9d7e-34eac5a2e690.PNG)
 
-![Ecomify4](https://user-images.githubusercontent.com/59603716/229887460-0f2636e4-c94c-4d34-9549-3f399f33645a.PNG)
+![4](https://user-images.githubusercontent.com/59603716/234086970-7780bd14-425b-4873-b8d2-886ffda4b44c.PNG)
 
-![Ecomify5](https://user-images.githubusercontent.com/59603716/229887562-5f2cb03b-292a-47f5-9bc4-7235593ed5f2.PNG)
+![5](https://user-images.githubusercontent.com/59603716/234086990-32363c99-0797-40ea-a8f0-b36f720fbb11.PNG)
 
-![Ecomify6](https://user-images.githubusercontent.com/59603716/229887644-9c31480f-7fbe-454f-9c90-61275a3778ae.PNG)
+![6](https://user-images.githubusercontent.com/59603716/234087014-93057f03-95d9-4e0f-af66-5680371caee7.PNG)
 
-![Ecomify7](https://user-images.githubusercontent.com/59603716/229887700-5397c46b-90a2-4445-a1dc-ed59e81f6887.PNG)
+![7](https://user-images.githubusercontent.com/59603716/234087032-fc9e22eb-c849-4fcf-98b8-333bec455a0b.PNG)
 
-![Ecomify8](https://user-images.githubusercontent.com/59603716/229887741-6a213467-d192-40a0-bc2e-c18c8247496b.PNG)
+![8](https://user-images.githubusercontent.com/59603716/234087049-6b73c946-b432-4dd4-9669-6f1aa2de8e94.PNG)
+
+![9](https://user-images.githubusercontent.com/59603716/234087068-8a9405b5-d4de-44e9-b825-4cae635f452e.PNG)
+
+![10](https://user-images.githubusercontent.com/59603716/234087089-c6ac03b3-bcae-46f9-84f4-39248877a076.PNG)
+
+![11](https://user-images.githubusercontent.com/59603716/234087107-926e391b-3d98-478a-936d-f6beb6de47c1.PNG)
+
+![12](https://user-images.githubusercontent.com/59603716/234087128-14e3fe56-9f74-49d3-8f7c-0657c6aeb1bb.PNG)
+
