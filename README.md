@@ -1,70 +1,87 @@
-# Getting Started with Create React App
+# React Js Admin Dashboard
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**live demo: [https://react-admin-dashboard-ochre.vercel.app//](https://react-admin-dashboard-ochre.vercel.app/)**
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+### Made with ❤️ by [Dulanjali Senarathna](https://www.linkedin.com/in/dulanjali-senarathna/)
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Project Description
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Mainly focused on react js front-end development. I used css for styling. Also, this application used React Context API for state management. Admin dashboard uses Syncfusion components for charts, calendar, kanban board and etc. 
 
-### `npm test`
+This admn dashboard has basic e-commerce functionalities such as loading orders, employees, customers. Users can use calnder for adding tasks and viewing tasks etc. We can implement crud operations using backend in future. 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+You can change theming colors and dark and light modes by clicking settings icon in bottom-right cornaer.
 
-### `npm run build`
+## What I used
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- [React](https://reactjs.org/)
+- [React Context API](https://legacy.reactjs.org/docs/context.html)
+- [React icons](https://react-icons.netlify.com/)
+- [Syncfusion](https://www.syncfusion.com/react-components)
+- More...
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Requirements
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Basic ReactJs knowledge
+- Basic HTML, CSS knowledge
 
-### `npm run eject`
+## Getting Started
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+After getting the project files, you need to go the file directory and run
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```shell
+npm install
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+and after that start the dev server.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```shell
+npm start
+```
 
-## Learn More
+## Tools Used
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+1. Favicon: [Flaticon.com](https://www.flaticon.com/)
+1. Code Editor: [VS Code](https://code.visualstudio.com/)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
 
-### Code Splitting
+## FAQ
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### Q: What are the prerequisites?
 
-### Analyzing the Bundle Size
+basics of html, css, javascript and some basic knowledge of react is enough to start this project. Rest you will learn in the tutorial.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### Q: Who the project is for?
 
-### Making a Progressive Web App
+The project is for the people who wanna get more skilled in `ReactJs`.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+---
 
-### Advanced Configuration
+## Feedback
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+If you have any feedback, please reach out to us at [Dulanjali Senarathna](https://www.behance.net/dulanjasenarathna)
 
-### Deployment
+Happy Coding! 🚀
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+# Website's screenshots
 
-### `npm run build` fails to minify
+![Emomify1](https://user-images.githubusercontent.com/59603716/229886892-f0c526a1-f6ce-40b6-b19c-6a3b81d412c3.PNG)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Ecomify2](https://user-images.githubusercontent.com/59603716/229886997-ca2d561d-6ea2-4d1a-95b0-9f7cf76024ae.PNG)
+
+![Ecomify3](https://user-images.githubusercontent.com/59603716/229887340-20ecf144-a888-4226-9f8e-70626632dd36.PNG)
+
+![Ecomify4](https://user-images.githubusercontent.com/59603716/229887460-0f2636e4-c94c-4d34-9549-3f399f33645a.PNG)
+
+![Ecomify5](https://user-images.githubusercontent.com/59603716/229887562-5f2cb03b-292a-47f5-9bc4-7235593ed5f2.PNG)
+
+![Ecomify6](https://user-images.githubusercontent.com/59603716/229887644-9c31480f-7fbe-454f-9c90-61275a3778ae.PNG)
+
+![Ecomify7](https://user-images.githubusercontent.com/59603716/229887700-5397c46b-90a2-4445-a1dc-ed59e81f6887.PNG)
+
+![Ecomify8](https://user-images.githubusercontent.com/59603716/229887741-6a213467-d192-40a0-bc2e-c18c8247496b.PNG)
